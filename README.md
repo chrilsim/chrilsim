@@ -97,54 +97,28 @@ A full-stack food delivery web application.
 
 ---
 
-### 🛒 POS System
-
-A Point of Sale system for managing products, categories,
-sales, and inventory.
-
-**Technologies:**
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Node.js
-- MongoDB
-
-**Features:**
-- 📦 Product Management
-- 🗂️ Category Management
-- 🧾 Sales Management
-- 📊 Dashboard
-- 🔍 Search & Filter
-
----
-
-#🍽️ Restaurant Management System
+### 📅 Restaurant Management System
 
 A web-based restaurant management system designed to help manage restaurant operations efficiently and provide a better experience for customers and staff.
 
-Technologies:
+**Technologies::**
+- Angular
+- TypeScript
+- Node.js
+- Express.js
+- MongoDB
 
-Angular
-TypeScript
-HTML & CSS
-Node.js
-Express.js
-MongoDB
-
-Features:
-
-🔐 User Authentication & Authorization
-👤 Customer & Staff Management
-🍔 Menu & Food Management
-🗂️ Category Management
-🛒 Shopping Cart
-📦 Order Management
-👨‍🍳 Kitchen Order Management
-🛵 Rider & Delivery Management
-🪑 Restaurant Table Booking
-📍 Address Management
-📊 Dashboard & Order Tracking
+**Features:**
+- 👤 Customer & Staff Management
+- 🍔 Menu & Food Management
+- 🗂️ Category Management
+- 🛒 Shopping Cart
+- 📦 Order Management
+- 👨‍🍳 Kitchen Order Management
+- 🛵 Rider & Delivery Management
+- 🪑 Restaurant Table Booking
+- 📍 Address Management
+- 📊 Dashboard & Order Tracking
 
 ---
 
