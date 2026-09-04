@@ -24,7 +24,7 @@ modern, responsive, and user-friendly web applications.
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap,tailwind" />
 </p>
 
 - HTML5
@@ -59,7 +59,7 @@ modern, responsive, and user-friendly web applications.
 ### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bouno" />
 </p>
 
 - Git
