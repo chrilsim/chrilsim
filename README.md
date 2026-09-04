@@ -32,6 +32,7 @@ modern, responsive, and user-friendly web applications.
 - JavaScript
 - TypeScript
 - Angular
+- react
 - Bootstrap
 - Tailwind CSS
 
@@ -52,6 +53,7 @@ modern, responsive, and user-friendly web applications.
 </p>
 
 - MongoDB
+- oracle
 - MySQL
 
 ### 🔧 Tools
@@ -64,6 +66,7 @@ modern, responsive, and user-friendly web applications.
 - GitHub
 - VS Code
 - Postman
+- bruno
 
 ---
 
