@@ -1,16 +1,149 @@
-## Hi there 👋
+# Hi 👋, I'm Chril Sim
 
-<!--
-**chrilsim/chrilsim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Developer | MIS Student
 
-Here are some ideas to get you started:
+I'm a passionate developer from Cambodia who enjoys building
+modern, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Management Information System (MIS) Student
+- 💻 Frontend Developer
+- 🌱 Currently learning Angular, Node.js & Express.js
+- 🗄️ Interested in MongoDB & MySQL
+- 🚀 Building real-world web applications
+- 📚 Always learning new technologies
+- 📍 Phnom Penh, Cambodia
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,tailwind" />
+</p>
+
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Angular
+- Bootstrap
+- Tailwind CSS
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+- Node.js
+- Express.js
+- REST API
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+- MongoDB
+- MySQL
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 🍔 Food Delivery System
+
+A full-stack food delivery web application.
+
+**Technologies:**
+- Angular
+- TypeScript
+- Node.js
+- Express.js
+- MongoDB
+
+**Features:**
+- 🔐 Authentication & Authorization
+- 🍔 Food/Menu Management
+- 🛒 Shopping Cart
+- 💳 Checkout
+- 📦 Order Management
+- 👨‍🍳 Kitchen Management
+- 🛵 Rider Management
+- 📍 Delivery Management
+- 📅 Table Booking
+
+---
+
+### 🛒 POS System
+
+A Point of Sale system for managing products, categories,
+sales, and inventory.
+
+**Technologies:**
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Node.js
+- MongoDB
+
+**Features:**
+- 📦 Product Management
+- 🗂️ Category Management
+- 🧾 Sales Management
+- 📊 Dashboard
+- 🔍 Search & Filter
+
+---
+
+### 📅 Restaurant Table Booking System
+
+A restaurant table reservation system that allows customers
+to select tables, dates, times, and party sizes.
+
+**Technologies:**
+- Angular
+- TypeScript
+- Node.js
+- Express.js
+- MongoDB
+
+**Features:**
+- 📅 Date Selection
+- 🕐 Time Selection
+- 🪑 Table Selection
+- 👥 Party Size
+- 📝 Special Request
+- 🔐 User Authentication
+
+---
+
+## 📚 Currently Learning
+
+```text
+Angular
+TypeScript
+Node.js
+Express.js
+MongoDB
+REST API
+Git & GitHub
