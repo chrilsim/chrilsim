@@ -2,8 +2,8 @@
 
 ### 💻 Frontend Developer | MIS Student
 
-I'm a passionate developer from Cambodia who enjoys building
-modern, responsive, and user-friendly web applications.
+I'm a Year 3 Management Information System student at SETEC Institute and a passionate developer who enjoys building modern, responsive, and user-friendly web applications.
+
 
 ---
 
