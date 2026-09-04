@@ -59,14 +59,15 @@ I'm a Year 3 Management Information System student at SETEC Institute and a pass
 ### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bouno" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
 </p>
 
 - Git
 - GitHub
 - VS Code
+- Visual Studio 2022
 - Postman
-- bruno
+- Bruno
 
 ---
 
@@ -118,7 +119,7 @@ sales, and inventory.
 
 ---
 
-### 📅 Restaurant Table Booking System
+### 📅 Restaurant Management System
 
 A restaurant table reservation system that allows customers
 to select tables, dates, times, and party sizes.
