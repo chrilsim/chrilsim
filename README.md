@@ -119,25 +119,32 @@ sales, and inventory.
 
 ---
 
-### 📅 Restaurant Management System
+#🍽️ Restaurant Management System
 
-A restaurant table reservation system that allows customers
-to select tables, dates, times, and party sizes.
+A web-based restaurant management system designed to help manage restaurant operations efficiently and provide a better experience for customers and staff.
 
-**Technologies:**
-- Angular
-- TypeScript
-- Node.js
-- Express.js
-- MongoDB
+Technologies:
 
-**Features:**
-- 📅 Date Selection
-- 🕐 Time Selection
-- 🪑 Table Selection
-- 👥 Party Size
-- 📝 Special Request
-- 🔐 User Authentication
+Angular
+TypeScript
+HTML & CSS
+Node.js
+Express.js
+MongoDB
+
+Features:
+
+🔐 User Authentication & Authorization
+👤 Customer & Staff Management
+🍔 Menu & Food Management
+🗂️ Category Management
+🛒 Shopping Cart
+📦 Order Management
+👨‍🍳 Kitchen Order Management
+🛵 Rider & Delivery Management
+🪑 Restaurant Table Booking
+📍 Address Management
+📊 Dashboard & Order Tracking
 
 ---
 
